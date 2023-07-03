@@ -1,15 +1,35 @@
 <h1 align="center">Hello, I'm Michał Pokrzywa</h1>
-<h3 align="center">Unity Developer| Game Designer | Bachelor of Engineering at Silesian University of Technology</h3>
+<h3 align="center">Unity Developer| Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
+Hello, welcome on my profile. I am computer science student at Silesian University of Technology. I have passion for gaming, creating games and learning new things.
+My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
+Finished Projects:
+- [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)
+- [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
+- [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
+- [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
+- [Game "Electro Exile" (C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
+- [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
+- [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 
-- 🌱 I’m currently learning **Unity DOTS | Python | Blender | Guitar**
+Working On:
+- Floating Islands Generator
+- Unannounced "Slime Coders" Game
+- Unannounced Personal Game
+- Portfolio Site
 
-- 👨‍💻 All of my projects are available at [https://acesse.one/cvEnglish](https://acesse.one/cvEnglish)
+I’m currently learning 🌱: 
+- **Unity DOTS**
+- **Python**
+- **Blender**
+- **Guitar**
 
-- 📫 How to reach me **michael.pokrzywa01@gmail.com**
+👨‍💻 All of my projects are available at [https://acesse.one/cvEnglish](https://acesse.one/cvEnglish)
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/63c15ac550bddb537bbd5345](https://www.overleaf.com/project/63c15ac550bddb537bbd5345)
+📫 How to reach me **michael.pokrzywa01@gmail.com**
+
+📄 Know about my experiences [https://acesse.one/cvEnglish](https://acesse.one/cvEnglish)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
