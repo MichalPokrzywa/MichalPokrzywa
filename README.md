@@ -12,7 +12,7 @@ Finished Projects:
 - [Game "Electro Exile" (C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
 - [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
-- [Autoshow app for exhibitions (C#|UNITY)]()
+- Autoshow app for exhibitions (C#|UNITY)
 
 Working On:
 - Floating Islands Generator
@@ -26,11 +26,11 @@ I’m currently learning 🌱:
 - **Blender**
 - **Guitar**
 
-👨‍💻 All of my projects are available at [https://acesse.one/cvEnglish](https://acesse.one/cvEnglish)
+👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
 📫 How to reach me **michael.pokrzywa01@gmail.com**
 
-📄 Know about my experiences [https://acesse.one/cvEnglish](https://acesse.one/cvEnglish)
+📄 Know about my experiences [here](https://drive.google.com/file/d/1NDyH9gWYn_nSg4yc6rQtVFXDdyztKAup/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
