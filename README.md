@@ -11,6 +11,7 @@ Finished Projects:
 - [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
 - [Game "Electro Exile" (C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
 - [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
+- [Game "Skill Issue" (C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 - Autoshow app for exhibitions (C#|UNITY)
 
