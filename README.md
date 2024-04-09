@@ -6,6 +6,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
 Finished Projects:
 - [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)
+- [Model Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
 - [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
 - [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
 - [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
@@ -14,18 +15,6 @@ Finished Projects:
 - [Game "Skill Issue" (C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 - Autoshow app for exhibitions (C#|UNITY)
-
-Working On:
-- Floating Islands Generator
-- Unannounced "Slime Coders" Game
-- Unannounced Personal Game
-- Portfolio Site
-
-I’m currently learning 🌱: 
-- **Unity DOTS**
-- **Python**
-- **Blender**
-- **Guitar**
 
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
