@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michał Pokrzywa</h1>
-<h3 align="center">Unity Developer| Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
+<h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
 Hello, welcome on my profile. I am computer science student at Silesian University of Technology. I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
@@ -8,12 +8,13 @@ Finished Projects:
 - [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)
 - [Model Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
 - [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
+- [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 - [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
+- [Recognizing skin in photos using our own implementation of a naive Bayes classifier (Python)](https://github.com/MichalPokrzywa/WkiroProject)
 - [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
 - [Game "Electro Exile" (C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
 - [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
 - [Game "Skill Issue" (C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
-- [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 - Autoshow app for exhibitions (C#|UNITY)
 
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
@@ -25,7 +26,7 @@ Finished Projects:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michał-pokrzywa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michał-pokrzywa/" height="30" width="40" /></a>
-<a href="https://discord.gg/cyrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cyrez" height="30" width="40" /></a>
+<a href="discordapp.com/users/362949538417344513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cyrez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
