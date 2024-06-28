@@ -19,7 +19,7 @@ Finished Projects:
 
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
-📫 How to reach me **michael.pokrzywa01@gmail.com**
+📫 How to reach me **michael.pokrzywa01@gmail.com** or [discord](discord.com/users/3629495384173445133)
 
 📄 Know about my experiences [here](https://drive.google.com/file/d/1NDyH9gWYn_nSg4yc6rQtVFXDdyztKAup/view?usp=sharing)
 
