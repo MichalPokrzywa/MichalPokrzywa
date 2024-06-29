@@ -16,7 +16,7 @@ Finished Projects:
 - [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
 - [Game "Skill Issue" (C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
-- Autoshow app for exhibitions (C#|UNITY)
+- [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
 
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
