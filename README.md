@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm Michał Pokrzywa</h1>
 <h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
-Hello, welcome on my profile. I am computer science student at Silesian University of Technology. I have passion for gaming, creating games and learning new things.
+Hello, welcome on my profile. I am computer science student at Silesian University of Technology. Currentlly working in Radikate.
+I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
 Finished Projects:
