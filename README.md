@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Michał Pokrzywa</h1>
+<h1 align="center">Hello, I'm Michał "Cyrez" Pokrzywa</h1>
 <h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
 
 Hello, welcome on my profile. I am computer science student at Silesian University of Technology. Currently working in Radikate.
@@ -19,6 +19,11 @@ Finished Projects:
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 - [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
 
+Working on Currently:
+- [WTF?: Wacky Things Fiesta!(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
+- Prototype 2D Music Turn base Fighter
+- OpenGL game
+- 
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
 📫 How to reach me **michael.pokrzywa01@gmail.com**
