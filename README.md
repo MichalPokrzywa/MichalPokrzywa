@@ -1,29 +1,29 @@
 <h1 align="center">Hello, I'm Michał "Cyrez" Pokrzywa</h1>
-<h3 align="center">Unity Developer | Game Designer | Bachelor of Engineering in computer science at Silesian University of Technology</h3>
-
+<h3 align="center">Unity Developer | Game Designer | Bachelor of Science in computer science at Silesian University of Technology</h3>
 Hello, welcome on my profile. I am computer science student at Silesian University of Technology. Currently working in Radikate.
 I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
 Finished Projects:
 - [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)
-- [Model Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
+- [Implementation of procedural generation of a terrain model containing flying islands in the Unity engine (Reaserch)(C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
 - [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
 - [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
 - [Recognizing skin in photos using our own implementation of a naive Bayes classifier (Python)](https://github.com/MichalPokrzywa/WkiroProject)
 - [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
-- [Game "Electro Exile" (C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
-- [Game "Slime Slayer" (C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
-- [Game "Skill Issue" (C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+- [Game "Electro Exile" (Bit Festival Gliwice 2022 Game Jam)(C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
+- [Game "Slime Slayer" (ZTGK 2022)(C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
+- [Game "Skill Issue" (Magic Jam 2024)(C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+- [Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam)(C#|Lua|UNTIY)](https://github.com/MichalPokrzywa/BitGameJame24)
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 - [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
 
 Working on Currently:
-- [WTF?: Wacky Things Fiesta!(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
+- [WTF?: Wacky Things Fiesta! (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
 - Reaserch "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"
 - Reaserch "Immersion Mobility in VR"
-- Prototype 2D Music Turn base Fighter
+- Coop Hacker game
 - OpenGL game
   
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
