@@ -12,19 +12,21 @@ Finished Projects:
 - [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
 - [Recognizing skin in photos using our own implementation of a naive Bayes classifier (Python)](https://github.com/MichalPokrzywa/WkiroProject)
 - [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
+- [Game "Aviator" (C++|OpenGL)](https://github.com/MichalPokrzywa/PWaG)
 - [Game "Electro Exile" (Bit Festival Gliwice 2022 Game Jam)(C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
 - [Game "Slime Slayer" (ZTGK 2022)(C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
 - [Game "Skill Issue" (Magic Jam 2024)(C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
 - [Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam)(C#|Lua|UNTIY)](https://github.com/MichalPokrzywa/BitGameJame24)
+- [Game "Adventure" (C#|UNITY)](https://youtu.be/YKJX14YCSx8)
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 - [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
+
 
 Working on Currently:
 - [WTF?: Wacky Things Fiesta! (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
 - Reaserch "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"
 - Reaserch "Immersion Mobility in VR"
-- Coop Hacker game
-- OpenGL game
+
   
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
 
