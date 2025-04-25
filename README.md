@@ -24,6 +24,7 @@ Finished Projects:
 
 Working on Currently:
 - [Nerd Simulator (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
+- [Secret Seeker (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3528320/Secret_Seeker/)
 - [Variation Game of LuaLoop](https://github.com/MichalPokrzywa/BitGameJame24)
 - Reaserch "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"
 - Reaserch "Immersion Mobility in VR"
