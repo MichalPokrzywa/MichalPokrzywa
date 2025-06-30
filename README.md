@@ -18,7 +18,7 @@ Finished Projects:
 - [Game "Skill Issue" (Magic Jam 2024)(C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
 - [Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam)(C#|Lua|UNTIY)](https://youtu.be/yAXDF75BFck)
 - [Game "Adventure" (C#|UNITY)](https://youtu.be/YKJX14YCSx8)
-- [Game "Glitch Reboot" (ZTGK2025) (C#|HLSL|UNITY](https://github.com/MichalPokrzywa/BitGameJame24) - [Trailer](https://vimeo.com/1092615315) - [Gameplay](https://vimeo.com/1092633208)
+- [Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio)(C#|HLSL|UNITY)](https://github.com/MichalPokrzywa/BitGameJame24) - [Trailer](https://vimeo.com/1092615315) - [Gameplay](https://vimeo.com/1092633208)
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 - [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
 
