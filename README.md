@@ -54,11 +54,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PcMonitor">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/dbfd8618-7b0e-4896-a1cf-651af3f34836" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center"><em>A Arduino project, where i created a screen showing PC stats (GPU Usage, CPU Usage, tempature) with leds showing how heavy is the load on the system. Python Script is using OpenHardwareMonitor program to send information to arduino </em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
