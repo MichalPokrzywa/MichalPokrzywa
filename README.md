@@ -18,7 +18,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
       </a>
     </p>
-    <p style="text-align:left; max-width:700px; margin:8px auto 0 auto;"><em>Description coming soon.</em></p>
+    <p style="text-align:left; max-width:700px; margin:8px auto 0 auto;">A project where i was working on the basic untiy terrain, to implement many popular algorytms to create a natural looking scene. In project i also created a custom editor to better showcase better </p>
   </div>
 
   <div align="center" style="margin-bottom:48px;">
