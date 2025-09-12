@@ -23,7 +23,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/VoxelGenerator">🏝️ Implementation of Procedural Flying Islands (Research) (C# | UNITY)</a>
+      <a href="https://github.com/MichalPokrzywa/VoxelGenerator">Implementation of the procedural generation of a terrain model containing floating islands in the Unity engine (Research) (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/VoxelGenerator">
