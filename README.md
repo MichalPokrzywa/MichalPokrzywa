@@ -18,27 +18,27 @@ My main goal is to work in gaming industry, where i can create experience for ot
       A Unity tool for procedural terrain generation with customizable settings and real-time previews.
     </p>
   </li>
-- [Implementation of procedural generation of a terrain model containing flying islands in the Unity engine (Reaserch)(C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
-- [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
-- [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
-- [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
-- [Recognizing skin in photos using our own implementation of a naive Bayes classifier (Python)](https://github.com/MichalPokrzywa/WkiroProject)
-- [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
-- [Game "Aviator" (C++|OpenGL)](https://github.com/MichalPokrzywa/PWaG)
-- [Game "Electro Exile" (Bit Festival Gliwice 2022 Game Jam)(C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
-- [Game "Slime Slayer" (ZTGK 2022)(C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
-- [Game "Skill Issue" (Magic Jam 2024)(C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
-- [Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam)(C#|Lua|UNTIY)](https://youtu.be/yAXDF75BFck)
-- [Game "Adventure" (C#|UNITY)](https://youtu.be/YKJX14YCSx8)
-- [Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio)(C#|HLSL|UNITY)](https://github.com/MichalPokrzywa/BitGameJame24) - [Trailer](https://vimeo.com/1092615315) - [Gameplay](https://vimeo.com/1092633208)
-- [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
-- [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
-- [Nerd Simulator (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
-- [Secret Seeker (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3528320/Secret_Seeker/)
-- Reaserch "Immersion Mobility in VR"
+ [Implementation of procedural generation of a terrain model containing flying islands in the Unity engine (Reaserch)(C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
+ [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
+ [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
+ [Segmentation Model to Find Hidden Animals in Wild (Python)](https://github.com/MichalPokrzywa/PythonSemgmentationModel)
+ [Recognizing skin in photos using our own implementation of a naive Bayes classifier (Python)](https://github.com/MichalPokrzywa/WkiroProject)
+ [Game "Block Braker" (C++)](https://github.com/MichalPokrzywa/Block_Braker)
+ [Game "Aviator" (C++|OpenGL)](https://github.com/MichalPokrzywa/PWaG)
+ [Game "Electro Exile" (Bit Festival Gliwice 2022 Game Jam)(C#|UNTIY)](https://github.com/szejkerek/ElectroExile)
+ [Game "Slime Slayer" (ZTGK 2022)(C#|UNTIY)](https://skngwigk.itch.io/slime-slayer)
+ [Game "Skill Issue" (Magic Jam 2024)(C#|UNTIY)](https://github.com/Jakub-Domogala/Time-Runner-Alpha)
+ [Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam)(C#|Lua|UNTIY)](https://youtu.be/yAXDF75BFck)
+ [Game "Adventure" (C#|UNITY)](https://youtu.be/YKJX14YCSx8)
+ [Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio)(C#|HLSL|UNITY)](https://github.com/MichalPokrzywa/BitGameJame24) - [Trailer](https://vimeo.com/1092615315) - [Gameplay](https://vimeo.com/1092633208)
+ [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
+ [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
+ [Nerd Simulator (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
+ [Secret Seeker (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3528320/Secret_Seeker/)
+ Reaserch "Immersion Mobility in VR"
   
 Working on Currently:
-- Reaserch "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"
+ Reaserch "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"
 
   
 👨‍💻 All of my projects are available at [here](https://acesse.one/cvEnglish)
