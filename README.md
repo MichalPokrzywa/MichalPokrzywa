@@ -12,13 +12,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">🌄 Scene Terrain Generator (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
         <img width="800" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -26,13 +24,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/VoxelGenerator">🏝️ Implementation of Procedural Flying Islands (Research) (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/VoxelGenerator">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -40,13 +36,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/SepiaFilter">🎨 Sepia Filter for Assembler (C# | ASM)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/SepiaFilter">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -54,13 +48,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/PcMonitor">💻 DIY PC Stat Monitor (Python | Arduino | C++)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PcMonitor">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -68,13 +60,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/PythonSemgmentationModel">🧠 Segmentation Model to Find Hidden Animals in Wild (Python)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PythonSemgmentationModel">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -82,13 +72,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/WkiroProject">🧾 Recognizing Skin in Photos — Naive Bayes (Python)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/WkiroProject">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -96,13 +84,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/Block_Braker">🧱 Game: Block Braker (C++)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/Block_Braker">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -110,13 +96,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/PWaG">✈️ Game: Aviator (C++ | OpenGL)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PWaG">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -124,13 +108,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/szejkerek/ElectroExile">⚡ Game: Electro Exile (Bit Festival Gliwice 2022 Game Jam) (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/szejkerek/ElectroExile">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -138,13 +120,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://skngwigk.itch.io/slime-slayer">🗡️ Game: Slime Slayer (ZTGK 2022)</a>
     </h3>
-
     <p align="center">
       <a href="https://skngwigk.itch.io/slime-slayer">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -152,13 +132,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">🎯 Game: Skill Issue (Magic Jam 2024) (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -166,13 +144,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://youtu.be/yAXDF75BFck">🔁 Game: LuaLoop (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://youtu.be/yAXDF75BFck">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Video+Demo" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -180,13 +156,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://youtu.be/YKJX14YCSx8">🧭 Game: Adventure (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://youtu.be/YKJX14YCSx8">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Video+Demo" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -194,15 +168,12 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/BitGameJame24">🛠️ Game: Glitch Reboot (ZTGK2025 - Generic Name Studio) (C# | HLSL | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/BitGameJame24">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
-
     <p align="center">
       Trailer: <a href="https://vimeo.com/1092615315">https://vimeo.com/1092615315</a> — Gameplay: <a href="https://vimeo.com/1092633208">https://vimeo.com/1092633208</a>
     </p>
@@ -212,13 +183,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/PGU2023">🏚️ Game Prototype: Estate Game (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PGU2023">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -226,13 +195,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/CarPresentationApp">🚗 Autoshow App for Exhibitions (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -240,13 +207,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">🎮 Nerd Simulator (Radikate) (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Store+Page" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -254,13 +219,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">🔍 Secret Seeker (Radikate) (C# | UNITY)</a>
     </h3>
-
     <p align="center">
       <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">
         <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Store+Page" />
       </a>
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
@@ -268,11 +231,9 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <h3 align="center">
       <a href="#">🔬 Research: Immersion Mobility in VR</a>
     </h3>
-
     <p align="center">
       <img width="800" alt="Placeholder screenshot" src="https://via.placeholder.com/800x400?text=Research+Placeholder" />
     </p>
-
     <p align="center"><em>Description coming soon.</em></p>
   </li>
 
