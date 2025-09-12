@@ -6,7 +6,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
 <h2 align="center">Worked On / Finished Projects</h2>
 
-<div style="padding-left:0; margin:0;">
+<div style="padding-left:0; margin:0;text-align:center;">
 
   <div style="margin-bottom:48px; text-align:center;">
     <h3 style="margin-bottom:12px;">
