@@ -15,7 +15,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
-        <img width="700" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
+        <img width="700" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/54180b0e-dda6-4c46-8d0a-e0251c2cbc38" />
+" />
       </a>
     </p>
   </div>
