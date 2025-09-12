@@ -71,7 +71,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Python project where Segmentation model was learning to find hidden animals in wild on pictures</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
