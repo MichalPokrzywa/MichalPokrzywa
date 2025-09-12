@@ -75,15 +75,15 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/WkiroProject">🧾 Recognizing Skin in Photos — Naive Bayes (Python)</a>
+      <a href="https://github.com/MichalPokrzywa/WkiroProject"> Recognizing Skin in Photos with onw implementation of Naive Bayes (Python)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/WkiroProject">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/WkiroProject/blob/master/wykres.png" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Custom implementation of a Naive Bayes classifier for skin detection, evaluated with balanced metrics (e.g., F1-score) while studying the effect of training-set size and histogram bin count for RGB channels on detection error. Experiments were run on downscaled images.</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
