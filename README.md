@@ -7,7 +7,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
 <h2 align="center">Worked On / Finished Projects</h2>
 
-<div align="center">
+
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -238,7 +238,6 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <p align="center"><em>Description coming soon.</em></p>
   </div>
 
-</div>
 
 <h3>Working on Currently:</h3>
 <p>Research: "A social interaction simulation environment to support the diagnosis of autism spectrum disorders"</p>
