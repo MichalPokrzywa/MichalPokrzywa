@@ -4,7 +4,7 @@ Hello, welcome on my profile. I am computer science student at Silesian Universi
 I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 <h2>Worked On / Finished Projects</h2>
-  <li>
+<li>
     <h3>
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
         Scene Terrain Generator (C# | UNITY)
