@@ -87,7 +87,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/Block_Braker">🧱 Game: Block Braker (C++)</a>
+      <a href="https://github.com/MichalPokrzywa/Block_Braker"> Game "Block Braker" (C++|SFML)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/Block_Braker">
@@ -95,11 +95,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Simple game of combination Breakout/Arkanoid created with SFML library with pad support</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/PWaG">✈️ Game: Aviator (C++ | OpenGL)</a>
+      <a href="https://github.com/MichalPokrzywa/PWaG">Game "Endless Plane" (C++ | OpenGL)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PWaG">
@@ -107,11 +107,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Endless runner game where plane collect points and avoid obstacles. Game was created with use of OpenGL</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/szejkerek/ElectroExile">⚡ Game: Electro Exile (Bit Festival Gliwice 2022 Game Jam) (C# | UNITY)</a>
+      <a href="https://github.com/szejkerek/ElectroExile">Game "Electro Exile" (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/szejkerek/ElectroExile">
@@ -119,23 +119,23 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">2D Platform Game where movement cost energy. Game was created durring Bit Festival Hackaton 2022 Game Jam where as a team we claimed 3rd place</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://skngwigk.itch.io/slime-slayer">🗡️ Game: Slime Slayer (ZTGK 2022)</a>
+      <a href="https://skngwigk.itch.io/slime-slayer">Game "Slime Slayer" (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://skngwigk.itch.io/slime-slayer">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/d70bbe16-9e5d-42a7-b18b-d93b37bda2bd" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">A 3D "zelda type" game, where you play as slime and can absorb other slimes, upgrade your stats, explore the realm, find the artifacts and fight. In team, i was a level designer. Game was created for ZTGK 2022, where we claimed TOP3 in finals</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">🎯 Game: Skill Issue (Magic Jam 2024) (C# | UNITY)</a>
+      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha"> Game "Skill Issue" (Magic Jam 2024) (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">
@@ -143,11 +143,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">A 2D rage platform game in which the longer you stay on a given level, the faster time passes. Game despite not winning, game was very appreciated by community</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://youtu.be/yAXDF75BFck">🔁 Game: LuaLoop (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
+      <a href="https://youtu.be/yAXDF75BFck">Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://youtu.be/yAXDF75BFck">
@@ -159,7 +159,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://youtu.be/YKJX14YCSx8">🧭 Game: Adventure (C# | UNITY)</a>
+      <a href="https://youtu.be/YKJX14YCSx8">Game "Adventure" (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://youtu.be/YKJX14YCSx8">
@@ -171,7 +171,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/BitGameJame24">🛠️ Game: Glitch Reboot (ZTGK2025 - Generic Name Studio) (C# | HLSL | UNITY)</a>
+      <a href="https://github.com/MichalPokrzywa/BitGameJame24">Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio) (C# | HLSL | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/BitGameJame24">
@@ -186,7 +186,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/PGU2023">🏚️ Game Prototype: Estate Game (C# | UNITY)</a>
+      <a href="https://github.com/MichalPokrzywa/PGU2023">Game Prototype "Estate Game" (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PGU2023">
@@ -198,7 +198,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">🚗 Autoshow App for Exhibitions (C# | UNITY)</a>
+      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">Autoshow App for Exhibitions (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
@@ -210,7 +210,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">🎮 Nerd Simulator (Radikate) (C# | UNITY)</a>
+      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">Nerd Simulator (Radikate) (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">
@@ -222,7 +222,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">🔍 Secret Seeker (Radikate) (C# | UNITY)</a>
+      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/"> Secret Seeker (Radikate) (C# | UNITY)</a>
     </h3>
     <p align="center">
       <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">
