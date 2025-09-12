@@ -79,7 +79,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/WkiroProject">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/WkiroProject/blob/master/wykres.png" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/WkiroProject/blob/master/PDF_Files/Zrzut%20ekranu%202024-05-21%20210210.png" />
       </a>
     </p>
   </div>
