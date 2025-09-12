@@ -18,7 +18,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p><em>Description coming soon.</em></p>
   </div>
 
   <div align="center" style="margin-bottom:48px;">
