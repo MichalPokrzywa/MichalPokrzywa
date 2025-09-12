@@ -5,8 +5,8 @@ I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
 Finished Projects:
-- [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)
-  <img width="1217" height="675" alt="image" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
+- [Scene Terrain Generator (C#|UNITY)](https://github.com/MichalPokrzywa/TerrainGenerationPP)  
+  [<img width="1217" height="675" alt="image" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />](https://github.com/MichalPokrzywa/TerrainGenerationPP)
 - [Implementation of procedural generation of a terrain model containing flying islands in the Unity engine (Reaserch)(C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
 - [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
