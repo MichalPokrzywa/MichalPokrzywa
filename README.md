@@ -4,9 +4,20 @@ Hello, welcome on my profile. I am computer science student at Silesian Universi
 I have passion for gaming, creating games and learning new things.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
-Finished Projects:
-- [<h3>Scene Terrain Generator (C#|UNITY)</h3>](https://github.com/MichalPokrzywa/TerrainGenerationPP)
-  [<img width="1217" height="675" alt="image" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />](https://github.com/MichalPokrzywa/TerrainGenerationPP)
+<h2>Worked On / Finished Projects</h2>
+  <li>
+    <h3>
+      <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
+        🌄 Scene Terrain Generator (C# | UNITY)
+      </a>
+    </h3>
+    <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
+      <img width="800" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
+    </a>
+    <p>
+      A Unity tool for procedural terrain generation with customizable settings and real-time previews.
+    </p>
+  </li>
 - [Implementation of procedural generation of a terrain model containing flying islands in the Unity engine (Reaserch)(C#|UNITY)](https://github.com/MichalPokrzywa/VoxelGenerator)
 - [Sepia Filter for Assembler (C#|ASM)](https://github.com/MichalPokrzywa/SepiaFilter)
 - [DIY PC Stat Monitor (Python|Arduino|C++)](https://github.com/MichalPokrzywa/PcMonitor)
@@ -22,8 +33,6 @@ Finished Projects:
 - [Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio)(C#|HLSL|UNITY)](https://github.com/MichalPokrzywa/BitGameJame24) - [Trailer](https://vimeo.com/1092615315) - [Gameplay](https://vimeo.com/1092633208)
 - [Game Prototype "Estate game" (C#|UNITY)](https://github.com/MichalPokrzywa/PGU2023)
 - [Autoshow app for exhibitions (C#|UNITY)](https://github.com/MichalPokrzywa/CarPresentationApp)
-
-Worked on:
 - [Nerd Simulator (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/)
 - [Secret Seeker (Radikate)(C#|UNITY)](https://store.steampowered.com/app/3528320/Secret_Seeker/)
 - Reaserch "Immersion Mobility in VR"
