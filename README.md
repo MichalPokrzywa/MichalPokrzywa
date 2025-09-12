@@ -27,7 +27,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/VoxelGenerator">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="[https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon](https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce)" />
       </a>
     </p>
     <p align="center"><em>Description coming soon.</em></p>
