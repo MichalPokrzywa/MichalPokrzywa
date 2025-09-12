@@ -30,8 +30,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/f66c8617-63a9-4b79-99d3-1b1781efdcce" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -42,8 +42,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -54,8 +54,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -66,8 +66,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -78,8 +78,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -90,8 +90,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -102,8 +102,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -114,8 +114,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -126,8 +126,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -138,8 +138,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -150,8 +150,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -162,8 +162,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -174,11 +174,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
+  </div>
     <p align="center"><em>Description coming soon.</em></p>
     <p align="center" style="margin-top:8px;">
       Trailer: <a href="https://vimeo.com/1092615315">https://vimeo.com/1092615315</a> — Gameplay: <a href="https://vimeo.com/1092633208">https://vimeo.com/1092633208</a>
     </p>
-  </div>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -189,8 +189,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -201,8 +201,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -213,8 +213,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Store page placeholder" src="https://via.placeholder.com/700x350?text=Store+Page" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -225,8 +225,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
         <img width="700" alt="Store page placeholder" src="https://via.placeholder.com/700x350?text=Store+Page" />
       </a>
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -235,8 +235,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <p align="center">
       <img width="700" alt="Research placeholder" src="https://via.placeholder.com/700x350?text=Research+Placeholder" />
     </p>
-    <p align="center"><em>Description coming soon.</em></p>
   </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
 
 <h3>Working on Currently:</h3>
