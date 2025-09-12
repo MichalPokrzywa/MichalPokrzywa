@@ -8,6 +8,56 @@ My main goal is to work in gaming industry, where i can create experience for ot
 <h2 align="center">Worked On / Finished Projects</h2>
 
 
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">Nerd Simulator (Radikate) (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">
+        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/294cc7f7-1eba-4adc-820e-ac3488a41d35" />
+      </a>
+    </p>
+  </div>
+    <p align="center">Absurd combination of a simulator and RPG. Was creating many basic systems of the game, many minigames and visualizations for demo.</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/"> Secret Seeker (Radikate) (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">
+        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/3bf71f2a-6ffc-4a15-a29a-74ba47d3a75d" />
+      </a>
+    </p>
+  </div>
+    <p align="center">Game is a combination of roguelite, horror, pressure, and secrets that are better left untouched. I Was responsible for backend systems for this game</p>
+    
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/BitGameJame24">Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio) (C# | HLSL | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/BitGameJame24">
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/baf95e37-25b0-4b90-8e08-b531fb86071b" />
+      </a>
+    </p>
+  </div>
+    <p align="center">You are a Robot – a brilliant machine created by the Creator, whose simulated world is starting to glitch. You’re given a mission to restore order. Together with Buggy, you traverse the tower’s labyrinth, solving puzzles to reach the system’s core and bring stability back to the simulation.</p>
+    <p align="center" style="margin-top:8px;">
+      Trailer: <a href="https://vimeo.com/1092615315">Link</a> — Gameplay: <a href="https://vimeo.com/1092633208">Link</a>
+    </p>
+    
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://skngwigk.itch.io/slime-slayer">Game "Slime Slayer" (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://skngwigk.itch.io/slime-slayer">
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/d70bbe16-9e5d-42a7-b18b-d93b37bda2bd" />
+      </a>
+    </p>
+  </div>
+    <p align="center">A 3D "zelda type" game, where you play as slime and can absorb other slimes, upgrade your stats, explore the realm, find the artifacts and fight. In team, i was a level designer. Game was created for ZTGK 2022, where we claimed TOP3 in finals</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -35,6 +85,112 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <p align="center" style="margin-top:8px;">
       Paper <a href="https://github.com/MichalPokrzywa/VoxelGenerator/blob/master/RAU-INZ-295732-2024.pdf">Link</a> — Showcase <a href="https://www.youtube.com/watch?v=VfMCmproKoY">Link</a>
     </p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/Block_Braker"> Game "Block Braker" (C++|SFML)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/Block_Braker">
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/65431557-3997-4663-bb0f-c19a273f9629" />
+      </a>
+    </p>
+  </div>
+    <p align="center">Simple game of combination Breakout/Arkanoid created with SFML library with pad support</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/PWaG">Game "Endless Plane" (C++ | OpenGL)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/PWaG">
+        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+      </a>
+    </p>
+  </div>
+    <p align="center">Endless runner game where plane collect points and avoid obstacles. Game was created with use of OpenGL</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/szejkerek/ElectroExile">Game "Electro Exile" (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/szejkerek/ElectroExile">
+        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+      </a>
+    </p>
+  </div>
+    <p align="center">2D Platform Game where movement cost energy. Game was created durring Bit Festival Hackaton 2022 Game Jam where as a team we claimed 3rd place</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha"> Game "Skill Issue" (Magic Jam 2024) (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">
+        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+      </a>
+    </p>
+  </div>
+    <p align="center">A 2D rage platform game in which the longer you stay on a given level, the faster time passes. Game despite not winning, game was very appreciated by community</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://youtu.be/yAXDF75BFck">Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://youtu.be/yAXDF75BFck">
+        <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
+      </a>
+    </p>
+  </div>
+    <p align="center">3D logic game where, you need to break from room loop by solving terminal code. Game had implemented a Lua code interpreter for terminal code.</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://youtu.be/YKJX14YCSx8">Game "Adventure" (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://youtu.be/YKJX14YCSx8">
+        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/b15141ce-d4d1-400d-8063-54899f3c7584" />
+      </a>
+    </p>
+  </div>
+    <p align="center">3D Game where 2 players are trying to hack system. One player is playing as a "AntDron" to move and attack enemies, where second player is a Hacker and helps hacking system, renew supplies for "AntDron" by playing music (Guitar Hero Minigame)</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/PGU2023">Game Prototype "Estate Game" (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/PGU2023">
+        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+      </a>
+    </p>
+  </div>
+    <p align="center">Prototype that was created in cooperation with the Architecture department of Silesian University of Technology</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">Autoshow App for Exhibitions (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
+        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+      </a>
+    </p>
+  </div>
+    <p align="center">A mobile app to showcase models of cars, photos and option to register for testdrives</p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="#">🔬 Research: Immersion Mobility in VR</a>
+    </h3>
+    <p align="center">
+      <img width="700" alt="Research placeholder" src="https://via.placeholder.com/700x350?text=Research+Placeholder" />
+    </p>
+  </div>
+    <p align="center"><em>Description coming soon.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -85,162 +241,6 @@ My main goal is to work in gaming industry, where i can create experience for ot
   </div>
     <p align="center">Custom implementation of a Naive Bayes classifier for skin detection, evaluated with balanced metrics (e.g., F1-score) while studying the effect of training-set size and histogram bin count for RGB channels on detection error. Experiments were run on downscaled images.</p>
 
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/Block_Braker"> Game "Block Braker" (C++|SFML)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/MichalPokrzywa/Block_Braker">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/65431557-3997-4663-bb0f-c19a273f9629" />
-      </a>
-    </p>
-  </div>
-    <p align="center">Simple game of combination Breakout/Arkanoid created with SFML library with pad support</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/PWaG">Game "Endless Plane" (C++ | OpenGL)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/MichalPokrzywa/PWaG">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
-      </a>
-    </p>
-  </div>
-    <p align="center">Endless runner game where plane collect points and avoid obstacles. Game was created with use of OpenGL</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/szejkerek/ElectroExile">Game "Electro Exile" (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/szejkerek/ElectroExile">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
-      </a>
-    </p>
-  </div>
-    <p align="center">2D Platform Game where movement cost energy. Game was created durring Bit Festival Hackaton 2022 Game Jam where as a team we claimed 3rd place</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://skngwigk.itch.io/slime-slayer">Game "Slime Slayer" (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://skngwigk.itch.io/slime-slayer">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/d70bbe16-9e5d-42a7-b18b-d93b37bda2bd" />
-      </a>
-    </p>
-  </div>
-    <p align="center">A 3D "zelda type" game, where you play as slime and can absorb other slimes, upgrade your stats, explore the realm, find the artifacts and fight. In team, i was a level designer. Game was created for ZTGK 2022, where we claimed TOP3 in finals</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha"> Game "Skill Issue" (Magic Jam 2024) (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
-      </a>
-    </p>
-  </div>
-    <p align="center">A 2D rage platform game in which the longer you stay on a given level, the faster time passes. Game despite not winning, game was very appreciated by community</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://youtu.be/yAXDF75BFck">Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://youtu.be/yAXDF75BFck">
-        <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
-      </a>
-    </p>
-  </div>
-    <p align="center">3D logic game where, you need to break from room loop by solving terminal code. Game had implemented a Lua code interpreter for terminal code.</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://youtu.be/YKJX14YCSx8">Game "Adventure" (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://youtu.be/YKJX14YCSx8">
-        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/b15141ce-d4d1-400d-8063-54899f3c7584" />
-      </a>
-    </p>
-  </div>
-    <p align="center">3D Game where 2 players are trying to hack system. One player is playing as a "AntDron" to move and attack enemies, where second player is a Hacker and helps hacking system, renew supplies for "AntDron" by playing music (Guitar Hero Minigame)</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/BitGameJame24">Game "Glitch Reboot" (ZTGK2025 - Generic Name Studio) (C# | HLSL | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/MichalPokrzywa/BitGameJame24">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/baf95e37-25b0-4b90-8e08-b531fb86071b" />
-      </a>
-    </p>
-  </div>
-    <p align="center">You are a Robot – a brilliant machine created by the Creator, whose simulated world is starting to glitch. You’re given a mission to restore order. Together with Buggy, you traverse the tower’s labyrinth, solving puzzles to reach the system’s core and bring stability back to the simulation.</p>
-    <p align="center" style="margin-top:8px;">
-      Trailer: <a href="https://vimeo.com/1092615315">Link</a> — Gameplay: <a href="https://vimeo.com/1092633208">Link</a>
-    </p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/PGU2023">Game Prototype "Estate Game" (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/MichalPokrzywa/PGU2023">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
-      </a>
-    </p>
-  </div>
-    <p align="center">Prototype that was created in cooperation with the Architecture department of Silesian University of Technology</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">Autoshow App for Exhibitions (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
-      </a>
-    </p>
-  </div>
-    <p align="center">A mobile app to showcase models of cars, photos and option to register for testdrives</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">Nerd Simulator (Radikate) (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">
-        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/294cc7f7-1eba-4adc-820e-ac3488a41d35" />
-      </a>
-    </p>
-  </div>
-    <p align="center">Absurd combination of a simulator and RPG. Was creating many basic systems of the game for demo.</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/"> Secret Seeker (Radikate) (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">
-        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/3bf71f2a-6ffc-4a15-a29a-74ba47d3a75d" />
-      </a>
-    </p>
-  </div>
-    <p align="center">Game is a combination of roguelite, horror, pressure, and secrets that are better left untouched. Was responsible for backend systems for this game</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="#">🔬 Research: Immersion Mobility in VR</a>
-    </h3>
-    <p align="center">
-      <img width="700" alt="Research placeholder" src="https://via.placeholder.com/700x350?text=Research+Placeholder" />
-    </p>
-  </div>
-    <p align="center"><em>Description coming soon.</em></p>
 
 
 <h3>Working on Currently:</h3>
