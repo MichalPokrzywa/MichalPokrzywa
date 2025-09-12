@@ -16,11 +16,10 @@ My main goal is to work in gaming industry, where i can create experience for ot
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">
         <img width="700" alt="Scene Terrain Generator Screenshot" src="https://github.com/user-attachments/assets/54180b0e-dda6-4c46-8d0a-e0251c2cbc38" />
-" />
       </a>
     </p>
   </div>
-    <p style="text-align:left; max-width:700px; margin:8px auto 0 auto;">A project where i was working on the basic untiy terrain, to implement many popular algorytms to create a natural looking scene. In project i also created a custom editor to better showcase better </p>
+    <p style="text-align:left; max-width:700px; margin:8px auto 0 auto;">A project where i was working on the basic untiy terrain, to implement many popular algorytms (Vonoroid, MidPoint Displacement, Perlin Noise) to create a natural looking scene. Outside of creating terrain also added opitons like adding Textures, Vegetation, Details, Water, Shoreline, option to save/lode heightmap of the terrain. In project i also created a custom editor to better showcase all the options</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
