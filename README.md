@@ -19,7 +19,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p style="text-align:left; max-width:700px; margin:8px auto 0 auto;">A project where i was working on the basic untiy terrain, to implement many popular algorytms (Vonoroid, MidPoint Displacement, Perlin Noise) to create a natural looking scene. Outside of creating terrain also added opitons like adding Textures, Vegetation, Details, Water, Shoreline, option to save/lode heightmap of the terrain. In project i also created a custom editor to better showcase all the options</p>
+    <p style="text-align:left; max-width:900px; margin:8px auto 0 auto;">A project where i was working on the basic untiy terrain, to implement many popular algorytms (Vonoroid, MidPoint Displacement, Perlin Noise) to create a natural looking scene. Outside of creating terrain also added opitons like adding Textures, Vegetation, Details, Water, Shoreline, option to save/lode heightmap of the terrain. In project i also created a custom editor to better showcase all the options</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -32,6 +32,9 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </p>
   </div>
     <p align="center"><em>Description coming soon.</em></p>
+    <p align="center" style="margin-top:8px;">
+      Paper <a href="https://vimeo.com/1092615315">Link</a> — Showcase <a href="https://vimeo.com/1092633208">Link</a>
+    </p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
