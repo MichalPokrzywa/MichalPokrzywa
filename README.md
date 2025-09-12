@@ -38,15 +38,15 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/SepiaFilter">🎨 Sepia Filter for Assembler (C# | ASM)</a>
+      <a href="https://github.com/MichalPokrzywa/SepiaFilter"> Sepia Filter for Assembler (C# | ASM)</a>
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/SepiaFilter">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/11a39e4b-0802-47bb-b6ea-edf039b7cb0a"/>
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center"><em>A simple program for adding Sepia Filter on photos to compare speeds between Assembler and C#.</em></p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
