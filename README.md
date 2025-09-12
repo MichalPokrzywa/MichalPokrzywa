@@ -66,8 +66,8 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/PythonSemgmentationModel">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/PythonSemgmentationModel/blob/master/DataBaseMasks/Pokrzywa.Micha.4.png" />
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/PythonSemgmentationModel/blob/master/DataBaseImages/Pokrzywa.Micha.4.png" />
+        <img width="400" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/PythonSemgmentationModel/blob/master/DataBaseMasks/Pokrzywa.Micha.4.png" />
+        <img width="400" alt="Placeholder screenshot" src="https://github.com/MichalPokrzywa/PythonSemgmentationModel/blob/master/DataBaseImages/Pokrzywa.Micha.4.png" />
       </a>
     </p>
   </div>
