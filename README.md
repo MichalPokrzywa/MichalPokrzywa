@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michał "Cyrez" Pokrzywa</h1>
-<h3 align="center">Unity Developer | Game Designer | Bachelor of Science in computer science at Silesian University of Technology</h3>
+<h2 align="center">Unity Developer | Game Designer | Bachelor of Science in computer science at Silesian University of Technology</h2>
 
 Hello, welcome on my profile. I am computer science student at Silesian University of Technology. Currently working in Radikate.
 I have passion for gaming, creating games and learning new things.
@@ -155,7 +155,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">3D logic game where, you need to break from room loop by solving terminal code. Game had implemented a Lua code interpreter for terminal code.</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -163,11 +163,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://youtu.be/YKJX14YCSx8">
-        <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
+        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/b15141ce-d4d1-400d-8063-54899f3c7584" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">3D Game where 2 players are trying to hack system. One player is playing as a "AntDron" to move and attack enemies, where second player is a Hacker and helps hacking system, renew supplies for "AntDron" by playing music (Guitar Hero Minigame)</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -175,13 +175,13 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/BitGameJame24">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/baf95e37-25b0-4b90-8e08-b531fb86071b" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">You are a Robot – a brilliant machine created by the Creator, whose simulated world is starting to glitch. You’re given a mission to restore order. Together with Buggy, you traverse the tower’s labyrinth, solving puzzles to reach the system’s core and bring stability back to the simulation.</p>
     <p align="center" style="margin-top:8px;">
-      Trailer: <a href="https://vimeo.com/1092615315">https://vimeo.com/1092615315</a> — Gameplay: <a href="https://vimeo.com/1092633208">https://vimeo.com/1092633208</a>
+      Trailer: <a href="https://vimeo.com/1092615315">Link</a> — Gameplay: <a href="https://vimeo.com/1092633208">Link</a>
     </p>
 
   <div align="center" style="margin-bottom:48px;">
@@ -194,7 +194,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Prototype that was created in cooperation with the Architecture department of Silesian University of Technology</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -206,7 +206,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">A mobile app to showcase models of cars, photos and option to register for testdrives</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -214,11 +214,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://store.steampowered.com/app/3128220/WTF_Wacky_Things_Fiesta/">
-        <img width="700" alt="Store page placeholder" src="https://via.placeholder.com/700x350?text=Store+Page" />
+        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/294cc7f7-1eba-4adc-820e-ac3488a41d35" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Absurd combination of a simulator and RPG. Was creating many basic systems of the game for demo.</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -226,11 +226,11 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://store.steampowered.com/app/3528320/Secret_Seeker/">
-        <img width="700" alt="Store page placeholder" src="https://via.placeholder.com/700x350?text=Store+Page" />
+        <img width="700" alt="Store page placeholder" src="https://github.com/user-attachments/assets/3bf71f2a-6ffc-4a15-a29a-74ba47d3a75d" />
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">Game is a combination of roguelite, horror, pressure, and secrets that are better left untouched. Was responsible for backend systems for this game</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
