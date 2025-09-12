@@ -8,7 +8,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
 <div style="padding-left:0; margin:0;text-align:center;">
 
-  <div style="margin-bottom:48px; text-align:center;">
+  <div style="margin-bottom:48px; align="center"">
     <h3 style="margin-bottom:12px;">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">🌄 Scene Terrain Generator (C# | UNITY)</a>
     </h3>
