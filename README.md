@@ -31,9 +31,9 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center"><em>Bachelor’s thesis about creating a system for procedural generation of terrain model, where one of the options are "Floating islands" inside UNITY engine. Terrain is created with voxels created from scratch using unity mesh system. For pararell creating i used IJobPararell class.</em></p>
     <p align="center" style="margin-top:8px;">
-      Paper <a href="https://vimeo.com/1092615315">Link</a> — Showcase <a href="https://vimeo.com/1092633208">Link</a>
+      Paper <a href="https://github.com/MichalPokrzywa/VoxelGenerator/blob/master/RAU-INZ-295732-2024.pdf">Link</a> — Showcase <a href="https://www.youtube.com/watch?v=VfMCmproKoY">Link</a>
     </p>
 
   <div align="center" style="margin-bottom:48px;">
