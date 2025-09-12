@@ -46,7 +46,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
       </a>
     </p>
   </div>
-    <p style="text-align:left; max-width:900px; margin:8px auto 0 auto;">A simple program for adding Sepia Filter on photos to compare speeds between Assembler and C#.</p>
+    <p align="center"">A simple program for adding Sepia Filter on photos to compare speeds between Assembler and C#.</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
