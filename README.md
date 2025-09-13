@@ -61,6 +61,48 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
+      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">Autoshow App for Exhibitions (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/722e9db3-a343-4954-8e29-1fcc974e8359" />
+      </a>
+    </p>
+  </div>
+    <p align="center">A mobile app to showcase models of cars, photos and option to register for testdrives</p>
+  
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://youtu.be/yAXDF75BFck">Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://youtu.be/yAXDF75BFck">
+        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/cc590282-1f50-4c91-9047-8cc28a4021e1" />
+      </a>
+    </p>
+  </div>
+    <p align="center">3D logic game where, you need to break from room loop by solving terminal code. Game had implemented a Lua code interpreter for terminal code.</p>
+    <p align="center" style="margin-top:8px;">
+       Gameplay: <a href="https://youtu.be/yAXDF75BFck">Link</a>
+    </p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
+      <a href="https://youtu.be/YKJX14YCSx8">Game "Adventure" (C# | UNITY)</a>
+    </h3>
+    <p align="center">
+      <a href="https://youtu.be/YKJX14YCSx8">
+        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/b15141ce-d4d1-400d-8063-54899f3c7584" />
+      </a>
+    </p>
+  </div>
+    <p align="center">3D Game where 2 players are trying to hack system. One player is playing as a "AntDron" to move and attack enemies, where second player is a Hacker and helps hacking system, renew supplies for "AntDron" by playing music (Guitar Hero Minigame)</p>
+    <p align="center" style="margin-top:8px;">
+       Gameplay: <a href="https://youtu.be/YKJX14YCSx8">Link</a>
+    </p>
+
+  <div align="center" style="margin-bottom:48px;">
+    <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/TerrainGenerationPP">Scene Terrain Generator (C# | UNITY)</a>
     </h3>
     <p align="center">
@@ -88,15 +130,16 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/Block_Braker"> Game "Block Braker" (C++|SFML)</a>
+      <a href="https://polslpl-my.sharepoint.com/:b:/g/personal/michpok467_student_polsl_pl/ESdI05SZwHZDgZCwpaaIjzcB-v-Aj3LuENFi9Bwd9hl-sA?e=VZbLaA"> Research: Immersion Mobility in VR</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/MichalPokrzywa/Block_Braker">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/65431557-3997-4663-bb0f-c19a273f9629" />
-      </a>
+      <img width="700" alt="Research placeholder" src="https://github.com/user-attachments/assets/0a1e8899-2205-454c-8ab1-3cd27b59609e" />
     </p>
   </div>
-    <p align="center">Simple game of combination Breakout/Arkanoid created with SFML library with pad support</p>
+    <p align="center">PBL made in Silesian University Of Technology where we examine differences in user perception and experience when using two different methods of movement in a VR environment. Was main programmer where i was responsible for creating basic movement in VR from scrach</p>
+    <p align="center" style="margin-top:8px;">
+      Paper <a href="https://polslpl-my.sharepoint.com/:b:/g/personal/michpok467_student_polsl_pl/ESdI05SZwHZDgZCwpaaIjzcB-v-Aj3LuENFi9Bwd9hl-sA?e=VZbLaA">Link</a>
+    </p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
@@ -109,7 +152,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </p>
   </div>
     <p align="center">Endless runner game where plane collect points and avoid obstacles. Game was created with use of OpenGL</p>
-
+  
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
       <a href="https://github.com/szejkerek/ElectroExile">Game "Electro Exile" (C# | UNITY)</a>
@@ -136,30 +179,6 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://youtu.be/yAXDF75BFck">Game "LuaLoop" (Bit Festival Gliwice 2024 Game Jam) (C# | Lua | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://youtu.be/yAXDF75BFck">
-        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/cc590282-1f50-4c91-9047-8cc28a4021e1" />
-      </a>
-    </p>
-  </div>
-    <p align="center">3D logic game where, you need to break from room loop by solving terminal code. Game had implemented a Lua code interpreter for terminal code.</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="https://youtu.be/YKJX14YCSx8">Game "Adventure" (C# | UNITY)</a>
-    </h3>
-    <p align="center">
-      <a href="https://youtu.be/YKJX14YCSx8">
-        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/b15141ce-d4d1-400d-8063-54899f3c7584" />
-      </a>
-    </p>
-  </div>
-    <p align="center">3D Game where 2 players are trying to hack system. One player is playing as a "AntDron" to move and attack enemies, where second player is a Hacker and helps hacking system, renew supplies for "AntDron" by playing music (Guitar Hero Minigame)</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
       <a href="https://github.com/MichalPokrzywa/PGU2023">Game Prototype "Estate Game" (C# | UNITY)</a>
     </h3>
     <p align="center">
@@ -172,28 +191,15 @@ My main goal is to work in gaming industry, where i can create experience for ot
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
-      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">Autoshow App for Exhibitions (C# | UNITY)</a>
+      <a href="https://github.com/MichalPokrzywa/Block_Braker"> Game "Block Braker" (C++|SFML)</a>
     </h3>
     <p align="center">
-      <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
-        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/722e9db3-a343-4954-8e29-1fcc974e8359" />
+      <a href="https://github.com/MichalPokrzywa/Block_Braker">
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/65431557-3997-4663-bb0f-c19a273f9629" />
       </a>
     </p>
   </div>
-    <p align="center">A mobile app to showcase models of cars, photos and option to register for testdrives</p>
-
-  <div align="center" style="margin-bottom:48px;">
-    <h3 align="center">
-      <a href="#">🔬 Research: Immersion Mobility in VR</a>
-    </h3>
-    <p align="center">
-      <img width="700" alt="Research placeholder" src="https://github.com/user-attachments/assets/0a1e8899-2205-454c-8ab1-3cd27b59609e" />
-    </p>
-  </div>
-    <p align="center">PBL made in Silesian University Of Technology where we examine differences in user perception and experience when using two different methods of movement in a VR environment. Was main programmer where i was responsible for creating basic movement in VR from scrach</p>
-    <p align="center" style="margin-top:8px;">
-      Paper <a href="https://polslpl-my.sharepoint.com/:b:/g/personal/michpok467_student_polsl_pl/ESdI05SZwHZDgZCwpaaIjzcB-v-Aj3LuENFi9Bwd9hl-sA?e=VZbLaA">Link</a>
-    </p>
+    <p align="center">Simple game of combination Breakout/Arkanoid created with SFML library with pad support</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
