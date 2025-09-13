@@ -176,7 +176,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/MichalPokrzywa/CarPresentationApp">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/722e9db3-a343-4954-8e29-1fcc974e8359" />
       </a>
     </p>
   </div>
