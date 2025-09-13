@@ -116,7 +116,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/szejkerek/ElectroExile">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/9e651b53-4559-42f8-a65b-3bd3448b5398" />
       </a>
     </p>
   </div>
