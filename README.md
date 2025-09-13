@@ -191,6 +191,9 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </p>
   </div>
     <p align="center">PBL made in Silesian University Of Technology where we examine differences in user perception and experience when using two different methods of movement in a VR environment. Was main programmer where i was responsible for creating basic movement in VR from scrach</p>
+    <p align="center" style="margin-top:8px;">
+      Paper <a href="https://polslpl-my.sharepoint.com/:b:/g/personal/michpok467_student_polsl_pl/ESdI05SZwHZDgZCwpaaIjzcB-v-Aj3LuENFi9Bwd9hl-sA?e=VZbLaA">Link</a>
+    </p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
