@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Michał "Cyrez" Pokrzywa</h1>
 <h2 align="center">Unity Developer | Game Designer | Bachelor of Science in computer science at Silesian University of Technology</h2>
 
-Hello, welcome on my profile. I am computer science student at Silesian University of Technology. Currently working in Radikate.
-I have passion for gaming, creating games and learning new things.
+Hello, welcome on my profile. I am computer science student at Silesian University of Technology. I hold a bachelor's degree in computer science and am currently completing my master's thesis. My passions include games, game development, and constantly expanding my knowledge. I run the SKN GRID (Game, Design, and Development) research club, where we explore various aspects of game development through collaboration and experimentation.
+I have participated in numerous competitions, which have allowed me to develop skills in rapid prototyping, creative problem solving, and working under time pressure.
 My main goal is to work in gaming industry, where i can create experience for other players to enjoy.
 
 <h2 align="center">Worked On / Finished Projects</h2>
