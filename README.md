@@ -128,7 +128,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://github.com/Jakub-Domogala/Time-Runner-Alpha">
-        <img width="700" alt="Placeholder screenshot" src="https://via.placeholder.com/700x350?text=Screenshot+Coming+Soon" />
+        <img width="700" alt="Placeholder screenshot" src="https://github.com/user-attachments/assets/ac84e777-6905-4a1d-8115-c1cf5339de81" />
       </a>
     </p>
   </div>
