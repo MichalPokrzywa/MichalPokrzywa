@@ -187,10 +187,10 @@ My main goal is to work in gaming industry, where i can create experience for ot
       <a href="#">🔬 Research: Immersion Mobility in VR</a>
     </h3>
     <p align="center">
-      <img width="700" alt="Research placeholder" src="https://via.placeholder.com/700x350?text=Research+Placeholder" />
+      <img width="700" alt="Research placeholder" src="https://github.com/user-attachments/assets/0a1e8899-2205-454c-8ab1-3cd27b59609e" />
     </p>
   </div>
-    <p align="center"><em>Description coming soon.</em></p>
+    <p align="center">PBL made in Silesian University Of Technology where we examine differences in user perception and experience when using two different methods of movement in a VR environment. Was main programmer where i was responsible for creating basic movement in VR from scrach</p>
 
   <div align="center" style="margin-bottom:48px;">
     <h3 align="center">
