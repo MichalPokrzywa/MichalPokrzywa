@@ -140,7 +140,7 @@ My main goal is to work in gaming industry, where i can create experience for ot
     </h3>
     <p align="center">
       <a href="https://youtu.be/yAXDF75BFck">
-        <img width="700" alt="Video demo placeholder" src="https://via.placeholder.com/700x350?text=Video+Demo" />
+        <img width="700" alt="Video demo placeholder" src="https://github.com/user-attachments/assets/cc590282-1f50-4c91-9047-8cc28a4021e1" />
       </a>
     </p>
   </div>
